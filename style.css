@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    margin-bottom: 1.5rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+img.rounded-circle {
+    border: 3px solid #333;
+}
